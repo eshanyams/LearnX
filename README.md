@@ -94,3 +94,25 @@ LearnX/
 - **No Third-Party Trackers:** No third-party analytics or ad trackers.
 - **Strict Role Isolation:** Queries filter strictly by authenticated user ID or enrolled classroom.
 - **Data Export & Deletion:** Any user can download a complete JSON copy of their learning profile or permanently purge their account.
+
+LEARNX is more than just a learning platform; it is a step towards making education smarter, more personalized, and accessible to everyone. By using Artificial Intelligence, LEARNX identifies students' learning gaps, understands the root causes of their difficulties, and creates personalized study plans based on their individual needs and available time.
+
+With features like AI-powered learning assistance, progress tracking, multilingual support, and personalized recommendations, LEARNX empowers students to learn at their own pace and build confidence.
+
+Our vision is simple: Every student is different, so their learning journey should be different too.
+
+LEARNX aims to transform traditional learning into an intelligent, inclusive, and student-centered experience where no learner is left behind.
+
+LEARNX – Discover Your Gaps, Unlock Your Potential, Shape Your Future!
+
+
+
+
+
+
+
+
+
+
+
+
